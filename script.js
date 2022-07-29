@@ -13,7 +13,7 @@ const form = document.getElementById('form');
 const transaction = document.getElementById('transaction');
 
 const amount = document.getElementById('amount');
-
+//logic
 // let transactions = [
 //   { id: 1, transaction: 'Books', amount: -100 },
 //   { id: 2, transaction: 'Coins', amount: 200 },
